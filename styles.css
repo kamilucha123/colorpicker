@@ -1,0 +1,35 @@
+body {
+	font: 'Raleway' sans-serif;
+	margin-top: 10%;
+	text-align: center;
+	letter-spacing: .5em;
+	background: linear-gradient(to right, red, yellow);
+	background-color: red;
+}
+
+h1 {
+	font: 600 3.5em 'Raleway', sans-serif;
+	text-align: center;
+	color: rgba(0,0,0, .5);
+	font-size: 4em;
+	text-transform: uppercase;
+	letter-spacing: 1em;
+	width: 100%;
+}
+
+h2 {
+	font: 900 1em 'Raleway', sans-serif;
+	text-align: center;
+	color: rgba(0, 0, 0, .5);
+	font-size: 2em;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+}
+
+button {
+	margin-top: 10px;
+	width: 200px;
+	height: 50px;
+	font-size: 1em;
+	color: blue;
+}
